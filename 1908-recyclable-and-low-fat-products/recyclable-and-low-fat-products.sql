@@ -1,4 +1,3 @@
-# Write your MySQL
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y'
